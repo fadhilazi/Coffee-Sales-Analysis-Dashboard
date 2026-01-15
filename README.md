@@ -9,8 +9,8 @@ The dataset was originally in Excel format, cleaned and modeled using Power BI (
 
 ## 📂 Dataset
 
-- Source: Kaggle
-- Format: Excel
+- Source: **Kaggle**
+- Format: **Ms Excel**
 - Type: Transactional sales data
 
 The dataset was cleaned, standardized, and modeled before visualization.
@@ -25,12 +25,10 @@ The dataset was cleaned, standardized, and modeled before visualization.
 
 
 ## 🛠 Tools & Technologies
-
-- Microsoft Power BI
+- **Microsoft Power BI** 
   - Power Query (data cleaning & transformation)
   - DAX (calculated measures & KPIs)
-- Microsoft Excel
-- Data Visualization & Business Intelligence Concepts
+- **Microsoft Excel**
 
 
 # Why This Project Matters
