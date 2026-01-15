@@ -47,6 +47,6 @@ Communicating insights clearly through visuals
 
 
 ## 📷 Preview
-
+![Dashboard](Dashboard/coffee_Sales_Dashboard_Preview.PNG)
 📷 Dashboard preview images included in this repository
 📁 Power BI file available for review
