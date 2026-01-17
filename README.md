@@ -1,5 +1,8 @@
 # ☕ Coffee Sales Data Analysis | Power BI Dashboard
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Ms_excel-0B6623?style=for-the-badge&logo=excel&logoColor=black) 
+
 ## 📌 Project Overview
 This project focuses on analyzing **coffee sales data** sourced from a public Kaggle dataset and transforming it into a meaningful insightful **interactive Power BI Dashboard**. The objective is to derive an actionable business insights related to sales performance, products trends and customer behaviors.
 
